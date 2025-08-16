@@ -26,6 +26,8 @@ DOMAIN-SUFFIX,diabrowser.engineering
 DOMAIN-SUFFIX,windsurf.com
 DOMAIN-SUFFIX,codeium.com
 DOMAIN-SUFFIX,codeiumdata.com
+# > Chorus
+DOMAIN-SUFFIX,chorus.sh
 # > Copilot
 DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,microsoftonline.com
