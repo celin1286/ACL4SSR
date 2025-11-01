@@ -31,8 +31,3 @@ payload:
   - DOMAIN-SUFFIX,mihdr.top
   - DOMAIN-SUFFIX,xiaomiai.site
   - DOMAIN-SUFFIX,miqk.cc
-
-# 多多直连
-  - DOMAIN-SUFFIX,yydsys.top
-  - DOMAIN-SUFFIX,yydsys.cc
-  - DOMAIN-SUFFIX,214521.xyz
