@@ -18,6 +18,9 @@ payload:
   - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN,o33249.ingest.sentry.io
 
+  # > Cerebras
+  - DOMAIN-SUFFIX,cerebras.ai
+
   # > Chorus
   - DOMAIN-SUFFIX,chorus.sh
 
@@ -86,6 +89,9 @@ payload:
   - DOMAIN-SUFFIX,clipdrop.co
   - DOMAIN-SUFFIX,jasper.ai
 
+  # > JetBrains
+  - DOMAIN-SUFFIX,jetbrains.ai
+
   # > Meta AI
   - DOMAIN-SUFFIX,meta.ai
 
@@ -102,18 +108,13 @@ payload:
   - DOMAIN-SUFFIX,poe.com
 
   # > Siri
-  - DOMAIN-SUFFIX,amp-api.apps.apple.com
   - DOMAIN-SUFFIX,apple-relay.apple.com
-  - DOMAIN-SUFFIX,apple-relay.cloudflare.com
   - DOMAIN-SUFFIX,apple-relay.fastly-edge.com
-  - DOMAIN-SUFFIX,apple-relay.mask.apple-dns.net
-  - DOMAIN-SUFFIX,apps.mzstatic.com
-  - DOMAIN-SUFFIX,cp4.cloudflare.com
-  - DOMAIN-SUFFIX,gateway.icloud.com
+  - DOMAIN-SUFFIX,apple-relay.cloudflare.com
   - DOMAIN-SUFFIX,guzzoni.apple.com
+  - DOMAIN-SUFFIX,cp4.cloudflare.com
   - DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com
   - DOMAIN-SUFFIX,smoot.apple.com
-  - DOMAIN-SUFFIX,updates.cdn-apple.com
 
   # > Sora
   - DOMAIN-SUFFIX,sora.com
