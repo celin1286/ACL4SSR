@@ -10,4 +10,4 @@ DOMAIN-SUFFIX,a1xs.vip
 
 # cloudflare tunnel
 DOMAIN-SUFFIX,argotunnel.com
-IP-CIDR,198.41.128.0/17
+IP-CIDR,198.41.128.0/17,no-resolve
