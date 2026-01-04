@@ -329,6 +329,20 @@ proxy-groups:
       - 奈飞节点
 
 rule-providers:
+  ProxyWogg:
+    url: https://down.nigx.cn/raw.githubusercontent.com/celin1286/ACL4SSR/refs/heads/main/Wogg/ProxyWogg.list
+    path: ./ruleset/ProxyWogg.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
+  DirectWogg:
+    url: https://down.nigx.cn/raw.githubusercontent.com/celin1286/ACL4SSR/refs/heads/main/Wogg/DirectWogg.list
+    path: ./ruleset/DirectWogg.list
+    behavior: classical
+    interval: 86400
+    format: text
+    type: http
   LocalAreaNetwork:
     url: https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/LocalAreaNetwork.list
     path: ./ruleset/LocalAreaNetwork.list
@@ -532,23 +546,9 @@ rule-providers:
     interval: 86400
     format: text
     type: http
-  DirectWogg:
-    url: https://down.nigx.cn/raw.githubusercontent.com/celin1286/ACL4SSR/refs/heads/main/Wogg/DirectWogg.list
-    path: ./ruleset/DirectWogg.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
   ProxyMedia:
     url: https://cdn.jsdelivr.net/gh/ACL4SSR/ACL4SSR@master/Clash/ProxyMedia.list
     path: ./ruleset/ProxyMedia.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
-  ProxyWogg:
-    url: https://down.nigx.cn/raw.githubusercontent.com/celin1286/ACL4SSR/refs/heads/main/Wogg/ProxyWogg.list
-    path: ./ruleset/ProxyWogg.list
     behavior: classical
     interval: 86400
     format: text
