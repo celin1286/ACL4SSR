@@ -7,7 +7,3 @@ DOMAIN-SUFFIX,188766.xyz
 
 # A1X Media
 DOMAIN-SUFFIX,a1xs.vip
-
-# cloudflare tunnel
-DOMAIN-SUFFIX,argotunnel.com
-IP-CIDR,198.41.128.0/17,no-resolve
