@@ -39,7 +39,3 @@ DOMAIN-SUFFIX,214521.xyz
 # 小斑快映直连
 DOMAIN-SUFFIX,xsayang.fun
 DOMAIN-SUFFIX,lu521.cn
-
-# cloudflare tunnel
-DOMAIN-SUFFIX,argotunnel.com
-IP-CIDR,198.41.128.0/17,no-resolve
