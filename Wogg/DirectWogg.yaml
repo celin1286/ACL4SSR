@@ -21,7 +21,9 @@ payload:
   - DOMAIN-SUFFIX,666291.xyz
 
   # 虎斑直连
-  - IP-CIDR,103.45.162.207/32
+  - DOMAIN-SUFFIX,xhban.xyz
+  - IP-CIDR,154.222.27.33/32
+
 
   # 二小直连
   - DOMAIN-SUFFIX,erxiaofn.site
