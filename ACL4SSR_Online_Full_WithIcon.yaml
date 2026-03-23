@@ -330,14 +330,14 @@ proxy-groups:
 
 rule-providers:
   ProxyWogg:
-    url: https://down.nigx.cn/raw.githubusercontent.com/celin1286/ACL4SSR/refs/heads/main/Wogg/ProxyWogg.list
+    url: https://wget.la/raw.githubusercontent.com/celin1286/ACL4SSR/refs/heads/main/Wogg/ProxyWogg.list
     path: ./ruleset/ProxyWogg.list
     behavior: classical
     interval: 86400
     format: text
     type: http
   DirectWogg:
-    url: https://down.nigx.cn/raw.githubusercontent.com/celin1286/ACL4SSR/refs/heads/main/Wogg/DirectWogg.list
+    url: https://wget.la/raw.githubusercontent.com/celin1286/ACL4SSR/refs/heads/main/Wogg/DirectWogg.list
     path: ./ruleset/DirectWogg.list
     behavior: classical
     interval: 86400
