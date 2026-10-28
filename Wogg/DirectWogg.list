@@ -4,12 +4,17 @@ DOMAIN-SUFFIX,fmao.site
 DOMAIN-SUFFIX,feimo.fun
 DOMAIN-SUFFIX,fmao.shop
 DOMAIN-SUFFIX,xiaocgege.shop
+DOMAIN-SUFFIX,tvpanpan.site
+DOMAIN-SUFFIX,mmpanpan.site
 
 # 玩偶直连
 DOMAIN-SUFFIX,wogg.one
 DOMAIN-SUFFIX,wogg.lol
 DOMAIN-SUFFIX,xxooo.cf
 DOMAIN-SUFFIX,333232.xyz
+DOMAIN-SUFFIX,888484.xyz
+DOMAIN-SUFFIX,wogg.net
+DOMAIN-SUFFIX,wogg.live
 
 # 六趣直连
 DOMAIN-SUFFIX,0v.fit
@@ -19,13 +24,18 @@ IP-CIDR,149.88.87.72/32
 DOMAIN-SUFFIX,muou.asia
 DOMAIN-SUFFIX,muou.site
 DOMAIN-SUFFIX,666291.xyz
+DOMAIN-SUFFIX,333291.xyz
+DOMAIN-SUFFIX,muoua.top
 
 # 虎斑直连
 DOMAIN-SUFFIX,xhban.xyz
+IP-CIDR,43.248.128.118/32
 IP-CIDR,154.222.27.33/32
+IP-CIDR,38.76.197.172/32
 
 # 二小直连
 DOMAIN-SUFFIX,erxiaofn.site
+DOMAIN-SUFFIX,2xiaopan.one
 
 # 至臻直连
 DOMAIN-SUFFIX,xiaomi666.fun
@@ -37,6 +47,8 @@ DOMAIN-SUFFIX,miqk.cc
 DOMAIN-SUFFIX,yydsys.top
 DOMAIN-SUFFIX,yydsys.cc
 DOMAIN-SUFFIX,214521.xyz
+DOMAIN-SUFFIX,yydsys.de5.net
+DOMAIN-SUFFIX,yydsys.de
 
 # 小斑快映直连
 DOMAIN-SUFFIX,xsayang.fun
@@ -45,3 +57,12 @@ DOMAIN-SUFFIX,iptvpro.pw
 DOMAIN-SUFFIX,zabc.net
 DOMAIN-SUFFIX,4kmp.com
 DOMAIN-SUFFIX,sdzhgt.com
+
+# 闪电直连
+DOMAIN-SUFFIX,sduc.cloud
+DOMAIN-SUFFIX,shandian.blog
+DOMAIN-SUFFIX,sduc.site
+
+# 闪电直连
+DOMAIN-SUFFIX,430520.xyz
+DOMAIN-SUFFIX,nxog.eu.org
