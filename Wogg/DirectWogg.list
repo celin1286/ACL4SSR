@@ -66,3 +66,6 @@ DOMAIN-SUFFIX,sduc.site
 # 闪电直连
 DOMAIN-SUFFIX,430520.xyz
 DOMAIN-SUFFIX,nxog.eu.org
+
+# github代理直连
+DOMAIN-SUFFIX,down.nigx.cn
