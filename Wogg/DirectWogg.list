@@ -67,5 +67,6 @@ DOMAIN-SUFFIX,sduc.site
 DOMAIN-SUFFIX,430520.xyz
 DOMAIN-SUFFIX,nxog.eu.org
 
-# github代理直连
+# 其他直连
 DOMAIN-SUFFIX,down.nigx.cn
+DOMAIN-SUFFIX,catvod.com
