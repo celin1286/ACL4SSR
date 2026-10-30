@@ -1,70 +1,81 @@
-# China Banks
+# Domestic
 # > Agricultural Bank of China
 DOMAIN-SUFFIX,abchina.com
-DOMAIN-SUFFIX,abchina.com.cn
-# > Bank of China
-DOMAIN-SUFFIX,boc.cn
 # > China Citic Bank
 DOMAIN-SUFFIX,citicbank.com
 DOMAIN-SUFFIX,ecitic.com
 DOMAIN-SUFFIX,ecitic.net
 # > China Construction Bank
 DOMAIN-SUFFIX,ccb.com
-DOMAIN-SUFFIX,ccb.com.cn
 # > China Everbright Bank
 DOMAIN-SUFFIX,cebbank.com
 # > China Merchants Bank
-# - USER-AGENT,cmb*
 DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,cmbimg.com
-DOMAIN-SUFFIX,cmbt.cn
 DOMAIN-SUFFIX,mbcloud.com
-# > Industrial and Commercial Bank of China
-# - USER-AGENT,%E4%B8%AD%E5%9B%BD%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C*
-DOMAIN-SUFFIX,icbc.com.cn
-# > Ping An Bank
-DOMAIN-SUFFIX,pingan.com
-DOMAIN-SUFFIX,pingan.com.cn
-# Type
-# > Beplay
-DOMAIN-KEYWORD,beplay
-# > Prior
-DOMAIN,client.amplifi.com
-DOMAIN,ip.bjango.com
-DOMAIN-SUFFIX,alphassl.com
-DOMAIN-SUFFIX,edu.cn
-# > RRYS
-DOMAIN-SUFFIX,p4pfile.com
-DOMAIN-SUFFIX,zmzfile.com
-# > Sony
-# - USER-AGENT,RemotePlay*
-DOMAIN-SUFFIX,sony.com
-DOMAIN-SUFFIX,sonyentertainmentnetwork.com
-# > TeamViewer
-IP-CIDR,185.188.32.0/24,no-resolve
-IP-CIDR,185.188.33.0/24,no-resolve
-IP-CIDR,185.188.34.0/24,no-resolve
-IP-CIDR,185.188.35.0/24,no-resolve
-IP-CIDR6,2a0b:b580::/48,no-resolve
-IP-CIDR6,2a0b:b581::/48,no-resolve
-IP-CIDR6,2a0b:b582::/48,no-resolve
-IP-CIDR6,2a0b:b583::/48,no-resolve
-# > Tencent
-IP-CIDR,182.254.116.0/24,no-resolve
-# > Emby (UHD)
-DOMAIN,smart.uhdnow.com
-# > Emby (MTDB)
-DOMAIN-SUFFIX,jiedaibao.gs
-DOMAIN,cdn.lilyemby.com
-DOMAIN,tx.lilyemby.com
+# > CN
+DOMAIN-SUFFIX,cn
+# > Douyin CDN
+DOMAIN,p-aweme-im-img-sign.bytedance.net
+DOMAIN,v5-dy-o-abtest.zjcdn.com
+DOMAIN-SUFFIX,amemv.com
+DOMAIN-SUFFIX,byted-static.com
+DOMAIN-SUFFIX,bytednsdoc.com
+DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,bytegoofy.com
+DOMAIN-SUFFIX,bytehwm.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,bytescm.com
+DOMAIN-SUFFIX,bytetcc.com
+DOMAIN-SUFFIX,bytetos.com
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinfe.com
+DOMAIN-SUFFIX,douyinliving.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinstatic.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,huoshancdn.com
+DOMAIN-SUFFIX,huoshanimg.com
+DOMAIN-SUFFIX,huoshanlive.com
+DOMAIN-SUFFIX,huoshanstatic.com
+DOMAIN-SUFFIX,huoshanvod.com
+DOMAIN-SUFFIX,hypercachenode.com
+DOMAIN-SUFFIX,ibytedapm.com
+DOMAIN-SUFFIX,idouyinliving.com
+DOMAIN-SUFFIX,idouyinpic.com
+DOMAIN-SUFFIX,idouyinstatic.com
+DOMAIN-SUFFIX,idouyinvod.com
+DOMAIN-SUFFIX,iesdouyin.com
+DOMAIN-SUFFIX,iesdouyin.net
+DOMAIN-SUFFIX,ihuoshanimg.com
+DOMAIN-SUFFIX,ihuoshanlive.com
+DOMAIN-SUFFIX,ihuoshanstatic.com
+DOMAIN-SUFFIX,ihuoshanvod.com
+DOMAIN-SUFFIX,ixigua.com
+DOMAIN-SUFFIX,ixiguavideo.com
+DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,supercachenet.com
+DOMAIN-SUFFIX,supercachenode.com
+DOMAIN-SUFFIX,toutiao.com
+DOMAIN-SUFFIX,ultracachenode.com
+DOMAIN-SUFFIX,yhgfb-cn-static.com
+DOMAIN-SUFFIX,zijieapi.com
+# > Oray / Sunlogin
+DOMAIN-SUFFIX,aweray.com
+DOMAIN-SUFFIX,oray.com
+DOMAIN-SUFFIX,oray.net
+DOMAIN-SUFFIX,sunlogin.net
+# > Volcengine
+DOMAIN-SUFFIX,volcengine.com
+DOMAIN-SUFFIX,volcengineapi.com
+DOMAIN-SUFFIX,volces.com
+# > Other domains
 DOMAIN-SUFFIX,10010.com
-DOMAIN-SUFFIX,10086.cn
-DOMAIN-SUFFIX,12306.cn
 DOMAIN-SUFFIX,12306.com
 DOMAIN-SUFFIX,126.net
 DOMAIN-SUFFIX,163.com
-DOMAIN-SUFFIX,189.cn
-DOMAIN-SUFFIX,360.cn
 DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,360buy.com
 DOMAIN-SUFFIX,360buyimg.com
@@ -77,6 +88,7 @@ DOMAIN-SUFFIX,abercrombie.com
 DOMAIN-SUFFIX,acfun.tv
 DOMAIN-SUFFIX,adobesc.com
 DOMAIN-SUFFIX,aiaa.org
+DOMAIN-SUFFIX,aiqicha.com
 DOMAIN-SUFFIX,air-matters.com
 DOMAIN-SUFFIX,air-matters.io
 DOMAIN-SUFFIX,aixifan.com
@@ -98,6 +110,7 @@ DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,beatsbydre.com
 DOMAIN-SUFFIX,bochk.com
+DOMAIN-SUFFIX,broadcasthe.net
 DOMAIN-SUFFIX,caiyunapp.com
 DOMAIN-SUFFIX,ccgslb.com
 DOMAIN-SUFFIX,ccgslb.net
@@ -118,7 +131,6 @@ DOMAIN-SUFFIX,didialift.com
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,douban.com
 DOMAIN-SUFFIX,doubanio.com
-DOMAIN-SUFFIX,douyin.com
 DOMAIN-SUFFIX,douyu.com
 DOMAIN-SUFFIX,douyu.tv
 DOMAIN-SUFFIX,douyutv.com
@@ -133,7 +145,6 @@ DOMAIN-SUFFIX,fir.im
 DOMAIN-SUFFIX,frdic.com
 DOMAIN-SUFFIX,fresh-ideas.cc
 DOMAIN-SUFFIX,gameloft.com
-DOMAIN-SUFFIX,garmin.cn
 DOMAIN-SUFFIX,geetest.com
 DOMAIN-SUFFIX,godic.net
 DOMAIN-SUFFIX,goodread.com
@@ -144,7 +155,6 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,haosou.com
 DOMAIN-SUFFIX,hdchina.org
 DOMAIN-SUFFIX,hdcmct.org
-DOMAIN-SUFFIX,hjfile.cn
 DOMAIN-SUFFIX,hkserversolution.com
 DOMAIN-SUFFIX,hollisterco.com
 DOMAIN-SUFFIX,hongxiu.com
@@ -206,10 +216,12 @@ DOMAIN-SUFFIX,pgyer.com
 DOMAIN-SUFFIX,pniao.com
 DOMAIN-SUFFIX,privatehd.to
 DOMAIN-SUFFIX,qbox.me
+DOMAIN-SUFFIX,qcc.com
 DOMAIN-SUFFIX,qcloud.com
 DOMAIN-SUFFIX,qdaily.com
 DOMAIN-SUFFIX,qdmm.com
 DOMAIN-SUFFIX,qhimg.com
+DOMAIN-SUFFIX,qichacha.com
 DOMAIN-SUFFIX,qidian.com
 DOMAIN-SUFFIX,qihucdn.com
 DOMAIN-SUFFIX,qin.io
@@ -223,12 +235,13 @@ DOMAIN-SUFFIX,qqmail.com
 DOMAIN-SUFFIX,qqurl.com
 DOMAIN-SUFFIX,rarbg.to
 DOMAIN-SUFFIX,redacted.ch
+DOMAIN-SUFFIX,rednotecdn.com
+DOMAIN-SUFFIX,rnote.com
 DOMAIN-SUFFIX,rrmj.tv
 DOMAIN-SUFFIX,ruguoapp.com
 DOMAIN-SUFFIX,servicewechat.com
 DOMAIN-SUFFIX,sf-express.com
 DOMAIN-SUFFIX,sinaapp.com
-DOMAIN-SUFFIX,sinaimg.cn
 DOMAIN-SUFFIX,sinaimg.com
 DOMAIN-SUFFIX,smzdm.com
 DOMAIN-SUFFIX,snwx.com
@@ -248,7 +261,6 @@ DOMAIN-SUFFIX,tawk.to
 DOMAIN-SUFFIX,tencent-cloud.net
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,tenpay.com
-DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,tietuku.com
 DOMAIN-SUFFIX,tmall.com
 DOMAIN-SUFFIX,tmzvps.com
@@ -266,8 +278,6 @@ DOMAIN-SUFFIX,wandoujia.com
 DOMAIN-SUFFIX,weather.bjango.com
 DOMAIN-SUFFIX,webqxs.com
 DOMAIN-SUFFIX,wechat.com
-DOMAIN-SUFFIX,wechat.com
-DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,weico.cc
 DOMAIN-SUFFIX,weiphone.com
@@ -294,7 +304,6 @@ DOMAIN-SUFFIX,yinxiang.com
 DOMAIN-SUFFIX,yixia.com
 DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,youdao.com
-DOMAIN-SUFFIX,ysepay.cn
 DOMAIN-SUFFIX,ysepay.com
 DOMAIN-SUFFIX,yunjiasu-cdn.net
 DOMAIN-SUFFIX,zealer.com
@@ -304,6 +313,30 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zimuzu.tv
 DOMAIN-SUFFIX,zmz002.com
 IP-CIDR,1.255.62.0/24,no-resolve
-# > CN
-DOMAIN-SUFFIX,gov.cn
-DOMAIN-SUFFIX,cn
+# > Ping An Bank
+DOMAIN-SUFFIX,pingan.com
+# > Prior
+DOMAIN-SUFFIX,alphassl.com
+DOMAIN,client.amplifi.com
+DOMAIN,ip.bjango.com
+# > RayLink
+DOMAIN-SUFFIX,raylink.live
+# > RRYS
+DOMAIN-SUFFIX,p4pfile.com
+DOMAIN-SUFFIX,zmzfile.com
+# > Sony
+DOMAIN-SUFFIX,sony.com
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+# > TeamViewer
+IP-CIDR,185.188.32.0/24,no-resolve
+IP-CIDR,185.188.33.0/24,no-resolve
+IP-CIDR,185.188.34.0/24,no-resolve
+IP-CIDR,185.188.35.0/24,no-resolve
+IP-CIDR6,2a0b:b580::/48,no-resolve
+IP-CIDR6,2a0b:b581::/48,no-resolve
+IP-CIDR6,2a0b:b582::/48,no-resolve
+IP-CIDR6,2a0b:b583::/48,no-resolve
+# > Tencent
+IP-CIDR,182.254.116.0/24,no-resolve
+# > ToDesk
+DOMAIN-SUFFIX,todesk.com

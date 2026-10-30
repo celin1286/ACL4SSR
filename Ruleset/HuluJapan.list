@@ -1,5 +1,6 @@
-# > Hulu(フールー)
+# > Hulu Japan
 PROCESS-NAME,jp.happyon.android
+# > Hulu(フールー)
 DOMAIN-SUFFIX,happyon.jp
 DOMAIN-SUFFIX,hulu.jp
 DOMAIN-SUFFIX,prod.hjholdings.tv

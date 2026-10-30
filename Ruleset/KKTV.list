@@ -1,5 +1,5 @@
 # > KKTV
-PROCESS-NAME,com.kktv.kktv
-DOMAIN-SUFFIX,kktv.me
-DOMAIN-SUFFIX,kktv.com.tw
 DOMAIN,kktv-theater.kk.stream
+DOMAIN-SUFFIX,kktv.com.tw
+DOMAIN-SUFFIX,kktv.me
+PROCESS-NAME,com.kktv.kktv
